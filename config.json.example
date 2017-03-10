@@ -1,0 +1,8 @@
+{
+	"user_info": {
+		"user_name": "student1",
+		"password": "mYPasswo1d",
+		"id": "111111113"
+	},
+	"check_frequency_in_mins": 10
+}
